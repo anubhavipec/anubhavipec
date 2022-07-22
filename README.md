@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anubhavipec
-- 👀 I’m interested in java
-- 🌱 I’m currently learning python and spring webflux
-- 💞️ I’m looking to collaborate on java projects
+- 👀 I’m interested in java ,python , golang and in general low latency distributed systems.
+- 🌱 I’m currently learning golang 
+- 💞️ I’m looking to collaborate on golang projects
 - 📫 How to reach me | email : aanubhav04@gmail.com
 
 <!---
