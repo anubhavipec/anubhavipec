@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anubhavipec
-- 👀 I’m interested in java ,python , golang and in general low latency distributed systems.
-- 🌱 I’m currently learning golang 
+- 👀 I’m interested in java ,python , Rust and in general low latency distributed systems.
+- 🌱 I’m currently learning Rust 
 - 💞️ I’m looking to collaborate on golang projects
 - 📫 How to reach me | email : aanubhav04@gmail.com
 
